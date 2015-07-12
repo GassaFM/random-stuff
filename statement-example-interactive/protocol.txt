@@ -1,0 +1,10 @@
+>2 5
+>start 1
+>move 1 4
+<move 1 1
+>won
+>start 2
+>move 1 2
+<move 1 4
+>won
+>end
